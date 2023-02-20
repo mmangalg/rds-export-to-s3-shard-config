@@ -1,0 +1,1 @@
+# rds-export-to-s3-shard-config
