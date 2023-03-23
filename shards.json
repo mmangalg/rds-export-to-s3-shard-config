@@ -4,7 +4,7 @@
                         "pod1": {
                            
                                   "shard1": "rds-1",
-                                  "shard2": "rds-2",
+                                  "shard2": "rds-2"
                           
                   
    }
