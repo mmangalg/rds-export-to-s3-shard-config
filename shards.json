@@ -1,10 +1,9 @@
 {
-   "run_pod": "pod1",
+   "run_pod": "pod3",
    "static_json": {
-                        "pod1": {
+                        "pod3": {
                            
-                                  "shard1": "rds-1",
-                                  "shard2": "rds-2"
+                                  "shard100": "rds-1"
                           
                   
    }
